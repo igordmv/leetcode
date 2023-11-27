@@ -13,3 +13,4 @@ LeetCode
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Kotlin](./medium/rotate-array/main.kt) |Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Kotlin](./easy/two-sum/main.kt) |Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Kotlin](./medium/two-sum-2-array-is-sorted/main.kt) |Medium|
+|125|[Valid Palindrome](https://leetcode.com/problems/rotate-array/) | [Kotlin](./easy/valid-palindrome/main.kt) |Easy|
