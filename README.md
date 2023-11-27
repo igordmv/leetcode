@@ -15,4 +15,5 @@ LeetCode
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Kotlin](./medium/two-sum-2-array-is-sorted/main.kt) |Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Kotlin](./easy/valid-palindrome/main.kt) |Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Kotlin](./easy/is-subsequence/main.kt) |Easy|
-|392|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Kotlin](./medium/container-with-most-water/main.kt) |Medium|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Kotlin](./medium/container-with-most-water/main.kt) |Medium|
+|15|[3Sum](https://leetcode.com/problems/3sum/) | [Kotlin](./medium/3sum/main.kt) |Medium|
