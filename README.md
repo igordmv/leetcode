@@ -14,4 +14,4 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Kotlin](./easy/two-sum/main.kt) |Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Kotlin](./medium/two-sum-2-array-is-sorted/main.kt) |Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Kotlin](./easy/valid-palindrome/main.kt) |Easy|
-
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Kotlin](./easy/is-subsequence/main.kt) |Easy|
