@@ -17,3 +17,5 @@ LeetCode
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Kotlin](./easy/is-subsequence/main.kt) |Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Kotlin](./medium/container-with-most-water/main.kt) |Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/) | [Kotlin](./medium/3sum/main.kt) |Medium|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Kotlin](./easy/reverse-string/main.kt) |Easy|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Kotlin](./easy/square-of-a-sorted-array/main.kt) |Easy|
