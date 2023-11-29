@@ -19,4 +19,4 @@ LeetCode
 |15|[3Sum](https://leetcode.com/problems/3sum/) | [Kotlin](./medium/3sum/main.kt) |Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Kotlin](./easy/reverse-string/main.kt) |Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Kotlin](./easy/square-of-a-sorted-array/main.kt) |Easy|
-|713|[3Sum](https://leetcode.com/problems/subarray-product-less-than-k/) | [Kotlin](./medium/subarray-product-less-than-k/main.kt) |Medium|
+|713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Kotlin](./medium/subarray-product-less-than-k/main.kt) |Medium|
