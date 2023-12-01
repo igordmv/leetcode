@@ -16,6 +16,7 @@ fun maxArea(height: IntArray): Int {
 
                 if (area > maxWater) {
                     maxWater = area
+                    lowerBarUsed = lowerBar
                 }
                 if (height[left] <= lowerBarUsed) {
                     right = height.lastIndex
