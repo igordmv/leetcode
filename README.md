@@ -21,3 +21,4 @@ LeetCode
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Kotlin](./easy/square-of-a-sorted-array/main.kt) |Easy|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Kotlin](./medium/subarray-product-less-than-k/main.kt) |Medium|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Kotlin](./easy/maximum-average-subarray-1/main.kt) |Easy|
+|1004|[Max Consecutives Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Kotlin](./medium/max-consecutive-ones-3/main.kt) |Medium|
