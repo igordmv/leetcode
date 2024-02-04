@@ -24,3 +24,4 @@ LeetCode
 |1004|[Max Consecutives Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Kotlin](./medium/max-consecutive-ones-3/main.kt) |Medium|
 |2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Kotlin](./medium/number-of-ways-to-split-array/main.kt) |Medium|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Kotlin](./easy/running-sum-of-1d-array/main.kt) |Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Kotlin](./medium/max-subarray/main.kt) |Medium|
