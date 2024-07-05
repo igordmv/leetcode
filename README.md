@@ -26,3 +26,4 @@ LeetCode
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Kotlin](./easy/running-sum-of-1d-array/main.kt) |Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Kotlin](./medium/max-subarray/main.kt) |Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Kotlin](./easy/remove-duplicates-from-sorted-array/main.kt) |Easy|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Kotlin](./medium/remove-duplicates-from-sorted-array-2/main.kt) |Medium|
