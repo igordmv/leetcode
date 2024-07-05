@@ -24,6 +24,6 @@ LeetCode
 |1004|[Max Consecutives Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Kotlin](./medium/max-consecutive-ones-3/main.kt) |Medium|
 |2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Kotlin](./medium/number-of-ways-to-split-array/main.kt) |Medium|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Kotlin](./easy/running-sum-of-1d-array/main.kt) |Easy|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Kotlin](./medium/max-subarray/main.kt) |Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Kotlin](./medium/max-subarray/main.kt) |Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Kotlin](./easy/remove-duplicates-from-sorted-array/main.kt) |Easy|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Kotlin](./medium/remove-duplicates-from-sorted-array-2/main.kt) |Medium|
