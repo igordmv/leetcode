@@ -27,3 +27,4 @@ LeetCode
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Kotlin](./medium/max-subarray/main.kt) |Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Kotlin](./easy/remove-duplicates-from-sorted-array/main.kt) |Easy|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Kotlin](./medium/remove-duplicates-from-sorted-array-2/main.kt) |Medium|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [Kotlin](./easy/majority-element/main.kt) |Easy|
