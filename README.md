@@ -29,3 +29,4 @@ LeetCode
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Kotlin](./medium/remove-duplicates-from-sorted-array-2/main.kt) |Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [Kotlin](./easy/majority-element/main.kt) |Easy|
 |55|[Jump Game](https://leetcode.com/problems/jump-game) | [Kotlin](./medium/jump-game/main.kt) |Medium|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Kotlin](./medium/jump-game-ii/main.kt) |Medium|
