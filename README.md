@@ -30,3 +30,4 @@ LeetCode
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [Kotlin](./easy/majority-element/main.kt) |Easy|
 |55|[Jump Game](https://leetcode.com/problems/jump-game) | [Kotlin](./medium/jump-game/main.kt) |Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Kotlin](./medium/jump-game-ii/main.kt) |Medium|
+|1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Kotlin](./easy/minimum-value-to-get-positive-step-by-step-sum/main.kt) |Easy|
