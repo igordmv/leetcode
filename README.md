@@ -32,5 +32,6 @@ LeetCode
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Kotlin](./medium/jump-game-ii/main.kt) |Medium|
 |1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Kotlin](./easy/minimum-value-to-get-positive-step-by-step-sum/main.kt) |Easy|
 |2090|[K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/description/) | [Kotlin](./medium/k-radius-subarray-averages/main.kt) |Medium|
-|2351|[First Letter to Appear Twice](https://leetcode.com/problems/majority-element/) | [Kotlin](./easy/first-letter-to-appear-twice/main.kt) |Easy|
-|1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/majority-element/) | [Kotlin](./easy/check-if-the-sentence-is-pangram/main.kt) |Easy|
+|2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Kotlin](./easy/first-letter-to-appear-twice/main.kt) |Easy|
+|1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Kotlin](./easy/check-if-the-sentence-is-pangram/main.kt) |Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/d) | [Kotlin](./easy/missing-number/main.kt) |Easy|
