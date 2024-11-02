@@ -40,3 +40,5 @@ LeetCode
 |1133|[Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | [Kotlin](./easy/largest-unique-number/main.kt) |Easy| 
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Kotlin](./medium/3sum-closest/main.kt) |Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Kotlin](./hard/sodoku-solver/main.kt) |Hard|
+|1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Kotlin](./easy/maximum-number-of-balloons/main.kt) |Easy| 
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Kotlin](./easy/palindrome-number/main.kt) |Easy| 
