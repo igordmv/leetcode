@@ -39,3 +39,4 @@ LeetCode
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses) | [Kotlin](./medium/find-players-with-zero-or-one-losses/main.kt) |Medium| 
 |1133|[Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | [Kotlin](./easy/largest-unique-number/main.kt) |Easy| 
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Kotlin](./medium/3sum-closest/main.kt) |Medium|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Kotlin](./hard/sodoku-solver/main.kt) |Hard|
