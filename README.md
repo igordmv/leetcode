@@ -35,3 +35,4 @@ LeetCode
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Kotlin](./easy/first-letter-to-appear-twice/main.kt) |Easy|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Kotlin](./easy/check-if-the-sentence-is-pangram/main.kt) |Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/d) | [Kotlin](./easy/missing-number/main.kt) |Easy|
+|1426|[Counting Elements](https://leetcode.com/problems/counting-elements/) | [Kotlin](./easy/counting-elements/main.kt) |Easy| 
