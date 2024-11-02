@@ -36,3 +36,4 @@ LeetCode
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Kotlin](./easy/check-if-the-sentence-is-pangram/main.kt) |Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/d) | [Kotlin](./easy/missing-number/main.kt) |Easy|
 |1426|[Counting Elements](https://leetcode.com/problems/counting-elements/) | [Kotlin](./easy/counting-elements/main.kt) |Easy| 
+|2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses) | [Kotlin](./medium/find-players-with-zero-or-one-losses/main.kt) |Medium| 
