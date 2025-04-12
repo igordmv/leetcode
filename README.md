@@ -43,3 +43,4 @@ LeetCode
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Kotlin](./easy/maximum-number-of-balloons/main.kt) |Easy| 
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Kotlin](./easy/palindrome-number/main.kt) |Easy| 
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Kotlin](./easy/maximum-depth-of-binary-tree/main.kt) |Easy| 
+|112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Kotlin](./easy/path-sum/main.kt) |Easy| 
