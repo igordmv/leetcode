@@ -42,3 +42,4 @@ LeetCode
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Kotlin](./hard/sodoku-solver/main.kt) |Hard|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Kotlin](./easy/maximum-number-of-balloons/main.kt) |Easy| 
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Kotlin](./easy/palindrome-number/main.kt) |Easy| 
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Kotlin](./easy/maximum-depth-of-binary-tree/main.kt) |Easy| 
