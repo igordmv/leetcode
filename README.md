@@ -44,3 +44,4 @@ LeetCode
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Kotlin](./easy/palindrome-number/main.kt) |Easy| 
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Kotlin](./easy/maximum-depth-of-binary-tree/main.kt) |Easy| 
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Kotlin](./easy/path-sum/main.kt) |Easy| 
+|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Kotlin](./medium/count-good-nodes-in-binary-tree/main.kt) |Medium| 
