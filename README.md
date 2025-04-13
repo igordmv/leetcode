@@ -49,3 +49,4 @@ LeetCode
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Kotlin](./easy/minimum-depth-of-binary-tree/main.kt) |Easy| 
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Kotlin](./easy/diameter-of-binary-tree/main.kt) |Easy| 
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Kotlin](./medium/binary-tree-right-side-view/main.kt) |Medium|
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Kotlin](./medium/find-largest-value-in-each-tree-row/main.kt) |Medium|
