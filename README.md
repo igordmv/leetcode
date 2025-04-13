@@ -47,3 +47,4 @@ LeetCode
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Kotlin](./medium/count-good-nodes-in-binary-tree/main.kt) |Medium| 
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Kotlin](./easy/same-tree/main.kt) |Easy| 
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Kotlin](./easy/minimum-depth-of-binary-tree/main.kt) |Easy| 
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Kotlin](./easy/diameter-of-binary-tree/main.kt) |Easy| 
