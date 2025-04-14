@@ -52,3 +52,4 @@ LeetCode
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Kotlin](./medium/find-largest-value-in-each-tree-row/main.kt) |Medium|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Kotlin](./medium/deepest-leaves-sum/main.kt) |Medium|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Kotlin](./easy/range-sum-of-bst/main.kt) |Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Kotlin](./medium/add-two-numbers/main.kt) |Medium|
