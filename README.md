@@ -58,3 +58,4 @@ LeetCode
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Kotlin](./medium/reverse-words-in-a-string/main.kt) |Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Kotlin](./medium/minimum-size-subarray-sum/main.kt) |Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Kotlin](./easy/ransom-note/main.kt) |Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Kotlin](./easy/invert-binary-tree/main.kt) |Easy|
