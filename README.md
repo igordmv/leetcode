@@ -59,3 +59,4 @@ LeetCode
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Kotlin](./medium/minimum-size-subarray-sum/main.kt) |Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Kotlin](./easy/ransom-note/main.kt) |Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Kotlin](./easy/invert-binary-tree/main.kt) |Easy|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Kotlin](./medium/sum-root-to-leaf-numbers/main.kt) |Medium|
