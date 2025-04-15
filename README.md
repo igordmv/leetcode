@@ -60,3 +60,4 @@ LeetCode
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Kotlin](./easy/ransom-note/main.kt) |Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Kotlin](./easy/invert-binary-tree/main.kt) |Easy|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Kotlin](./medium/sum-root-to-leaf-numbers/main.kt) |Medium|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Kotlin](./easy/valid-parentheses/main.kt) |Easy|
