@@ -62,3 +62,4 @@ LeetCode
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Kotlin](./medium/sum-root-to-leaf-numbers/main.kt) |Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Kotlin](./easy/valid-parentheses/main.kt) |Easy|
 |2357|[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Kotlin](./easy/make-array-zero-by-subtracting-equal-amounts/main.kt) |Easy|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Kotlin](./easy/middle-of-the-linked-list/main.kt) |Easy|
