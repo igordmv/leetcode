@@ -63,4 +63,5 @@ LeetCode
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Kotlin](./easy/valid-parentheses/main.kt) |Easy|
 |2357|[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Kotlin](./easy/make-array-zero-by-subtracting-equal-amounts/main.kt) |Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Kotlin](./easy/middle-of-the-linked-list/main.kt) |Easy|
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/middle-of-the-linked-list) | [Kotlin](./easy/remove-duplicates-from-sorted-list/main.kt) |Easy|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Kotlin](./easy/remove-duplicates-from-sorted-list/main.kt) |Easy|
+|1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Kotlin](./easy/remove-all-adjacent-duplicates-in-string/main.kt) |Easy|
