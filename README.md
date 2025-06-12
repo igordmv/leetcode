@@ -66,3 +66,4 @@ LeetCode
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Kotlin](./easy/remove-duplicates-from-sorted-list/main.kt) |Easy|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Kotlin](./easy/remove-all-adjacent-duplicates-in-string/main.kt) |Easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [Kotlin](./medium/simplify-path/main.kt) |Medium|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | [Kotlin](./easy/last-stone-weight/main.kt) |Easy|
