@@ -69,3 +69,4 @@ LeetCode
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | [Kotlin](./easy/last-stone-weight/main.kt) |Easy|
 |2126|[Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | [Kotlin](./medium/destroying-asteroids/main.kt) |Medium|
 |2294|[Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [Kotlin](./medium/partition-array-such-that-maximum-difference-is-k/main.kt) |Medium|
+|502|[IPO](https://leetcode.com/problems/ipo/) | [Kotlin](./hard/ipo/main.kt) |Hard|
