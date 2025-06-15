@@ -71,3 +71,4 @@ LeetCode
 |2294|[Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [Kotlin](./medium/partition-array-such-that-maximum-difference-is-k/main.kt) |Medium|
 |502|[IPO](https://leetcode.com/problems/ipo/) | [Kotlin](./hard/ipo/main.kt) |Hard|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Kotlin](./easy/jewels-and-stones/main.kt) |Easy|
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [Kotlin](./medium/insert-into-a-binary-search-tree/main.kt) |Medium|
