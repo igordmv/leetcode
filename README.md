@@ -73,3 +73,4 @@ LeetCode
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Kotlin](./easy/jewels-and-stones/main.kt) |Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [Kotlin](./medium/insert-into-a-binary-search-tree/main.kt) |Medium|
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Kotlin](./easy/find-if-path-exists-in-graph/main.kt) |Easy|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [Kotlin](./medium/max-area-of-island/main.kt) |Medium|
