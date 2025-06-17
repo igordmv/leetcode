@@ -78,3 +78,4 @@ LeetCode
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Kotlin](./easy/contains-duplicate/main.kt) |Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [Kotlin](./easy/intersection-of-two-arrays-ii/main.kt) |Easy|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | [Kotlin](./medium/repeated-dna-sequences/main.kt) |Medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Kotlin](./medium/longest-palindromic-substring/main.kt) |Medium|
