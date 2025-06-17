@@ -31,7 +31,7 @@ LeetCode
 |55|[Jump Game](https://leetcode.com/problems/jump-game) | [Kotlin](./medium/jump-game/main.kt) |Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Kotlin](./medium/jump-game-ii/main.kt) |Medium|
 |1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Kotlin](./easy/minimum-value-to-get-positive-step-by-step-sum/main.kt) |Easy|
-|2090|[K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/description/) | [Kotlin](./medium/k-radius-subarray-averages/main.kt) |Medium|
+|2090|[K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [Kotlin](./medium/k-radius-subarray-averages/main.kt) |Medium|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Kotlin](./easy/first-letter-to-appear-twice/main.kt) |Easy|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Kotlin](./easy/check-if-the-sentence-is-pangram/main.kt) |Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/d) | [Kotlin](./easy/missing-number/main.kt) |Easy|
@@ -66,7 +66,7 @@ LeetCode
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Kotlin](./easy/remove-duplicates-from-sorted-list/main.kt) |Easy|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Kotlin](./easy/remove-all-adjacent-duplicates-in-string/main.kt) |Easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [Kotlin](./medium/simplify-path/main.kt) |Medium|
-|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | [Kotlin](./easy/last-stone-weight/main.kt) |Easy|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Kotlin](./easy/last-stone-weight/main.kt) |Easy|
 |2126|[Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | [Kotlin](./medium/destroying-asteroids/main.kt) |Medium|
 |2294|[Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [Kotlin](./medium/partition-array-such-that-maximum-difference-is-k/main.kt) |Medium|
 |502|[IPO](https://leetcode.com/problems/ipo/) | [Kotlin](./hard/ipo/main.kt) |Hard|
