@@ -75,3 +75,4 @@ LeetCode
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Kotlin](./easy/find-if-path-exists-in-graph/main.kt) |Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [Kotlin](./medium/max-area-of-island/main.kt) |Medium|
 |2368|[Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions) | [Kotlin](./medium/reachable-nodes-with-restrictions/main.kt) |Medium|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Kotlin](./easy/contains-duplicate/main.kt) |Easy|
