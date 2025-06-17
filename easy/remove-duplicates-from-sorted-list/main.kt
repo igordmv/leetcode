@@ -8,16 +8,15 @@
  *     var next: ListNode? = null
  * }
  */
-class Solution {
-    fun deleteDuplicates(head: ListNode?): ListNode? {
-        var h = head
-        while (h?.next != null) {
-            if (h?.`val` == h?.next?.`val`) {
-                h.next = h.next.next
-            } else {
-                h = h.next
-            }
+
+fun deleteDuplicates(head: ListNode?): ListNode? {
+    var h = head
+    while (h?.next != null) {
+        if (h?.`val` == h?.next?.`val`) {
+            h.next = h.next.next
+        } else {
+            h = h.next
         }
-        return head
     }
+    return head
 }
