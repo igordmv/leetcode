@@ -79,3 +79,4 @@ LeetCode
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [Kotlin](./easy/intersection-of-two-arrays-ii/main.kt) |Easy|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | [Kotlin](./medium/repeated-dna-sequences/main.kt) |Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Kotlin](./medium/longest-palindromic-substring/main.kt) |Medium|
+|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [Kotlin](./easy/moving-average-from-data-stream/main.kt) |Easy|
