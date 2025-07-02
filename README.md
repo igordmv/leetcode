@@ -80,3 +80,4 @@ LeetCode
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | [Kotlin](./medium/repeated-dna-sequences/main.kt) |Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Kotlin](./medium/longest-palindromic-substring/main.kt) |Medium|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [Kotlin](./easy/moving-average-from-data-stream/main.kt) |Easy|
+|257 |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Kotlin](./easy/binary-tree-paths/main.kt) |Easy|
