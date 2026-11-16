@@ -84,3 +84,4 @@ LeetCode
 |3304|[Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | [Kotlin](./easy/find-the-k-th-character-in-string-game-i/main.kt) |Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Kotlin](./easy/linked-list-cycle/main.kt) |Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [Kotlin](./medium/kth-smallest-element-in-a-bst/main.kt) |Medium|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Kotlin](./easy/longest-common-prefix/main.kt) |Easy|
