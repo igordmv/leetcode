@@ -86,3 +86,4 @@ LeetCode
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [Kotlin](./medium/kth-smallest-element-in-a-bst/main.kt) |Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Kotlin](./easy/longest-common-prefix/main.kt) |Easy|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Kotlin](./medium/letter-combinations-of-a-phone-number/main.kt) |Medium|
+|18|[4Sum](https://leetcode.com/problems/4sum/) | [Kotlin](./medium/4sum/main.kt) |Medium|
