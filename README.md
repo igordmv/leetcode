@@ -8,7 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Kotlin](./easy/merge-sorted-array/main.kt) |Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Kotlin](./easy/merge-sorted-array/main.kt), [Kotlin 2](./easy/merge-sorted-array/solution-2.kt) |Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Kotlin](./easy/remove-element/main.kt) |Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Kotlin](./medium/rotate-array/main.kt) |Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Kotlin](./easy/two-sum/main.kt) |Easy|
