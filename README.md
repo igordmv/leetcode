@@ -69,7 +69,7 @@ LeetCode
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Kotlin](./easy/last-stone-weight/main.kt) |Easy|
 |2126|[Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | [Kotlin](./medium/destroying-asteroids/main.kt) |Medium|
 |2294|[Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [Kotlin](./medium/partition-array-such-that-maximum-difference-is-k/main.kt) |Medium|
-|502|[IPO](https://leetcode.com/problems/ipo/) | [Kotlin](./hard/ipo/main.kt) |Hard|
+|502|[IPO](https://leetcode.com/problems/ipo/) | [Kotlin](./hard/IPO/main.kt) |Hard|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Kotlin](./easy/jewels-and-stones/main.kt) |Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [Kotlin](./medium/insert-into-a-binary-search-tree/main.kt) |Medium|
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Kotlin](./easy/find-if-path-exists-in-graph/main.kt) |Easy|
@@ -88,3 +88,4 @@ LeetCode
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Kotlin](./medium/letter-combinations-of-a-phone-number/main.kt) |Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/) | [Kotlin](./medium/4sum/main.kt) |Medium|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [Kotlin](./medium/4sum-ii/main.kt) |Medium|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Kotlin](./medium/reverse-the-linked-list-ii/main.kt) |Medium|
