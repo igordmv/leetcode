@@ -89,3 +89,4 @@ LeetCode
 |18|[4Sum](https://leetcode.com/problems/4sum/) | [Kotlin](./medium/4sum/main.kt) |Medium|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [Kotlin](./medium/4sum-ii/main.kt) |Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Kotlin](./medium/reverse-the-linked-list-ii/main.kt) |Medium|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Kotlin](./easy/next-greater-element-i/main.kt) |Easy|
