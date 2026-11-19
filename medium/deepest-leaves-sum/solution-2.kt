@@ -1,19 +1,19 @@
 //https://leetcode.com/problems/deepest-leaves-sum/
 fun deepestLeavesSum(root: TreeNode?): Int {
     if (root == null) return 0
-    val stack = ArrayDeque<TreeNode>()
-    stack.addLast(root)
+    val queue = ArrayDeque<TreeNode>()
+    queue.addLast(root)
     var level = 0
     var levelSum = 0
-    while (stack.isNotEmpty()) {
+    while (queue.isNotEmpty()) {
         levelSum = 0
-        val levelSize = stack.size
+        val levelSize = queue.size
         level++
         repeat(levelSize) {
-            val node = stack.removeFirst()
+            val node = queue.removeFirst()
             levelSum += node.`val`
-            node.left?.let { stack.addLast(it) }
-            node.right?.let { stack.addLast(it) }
+            node.left?.let { queue.addLast(it) }
+            node.right?.let { queue.addLast(it) }
         }
     }
     return levelSum
