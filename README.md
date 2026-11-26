@@ -75,6 +75,7 @@ LeetCode
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Kotlin](./easy/find-if-path-exists-in-graph/main.kt) |Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [Kotlin](./medium/max-area-of-island/main.kt) |Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Kotlin](./medium/number-of-islands/main.kt) |Medium|
+|815|[Bus Routes](https://leetcode.com/problems/bus-routes/) | [Kotlin](./hard/bus-routes/main.kt) |Hard|
 |2368|[Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions) | [Kotlin](./medium/reachable-nodes-with-restrictions/main.kt) |Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Kotlin](./easy/contains-duplicate/main.kt) |Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [Kotlin](./easy/intersection-of-two-arrays-ii/main.kt) |Easy|
